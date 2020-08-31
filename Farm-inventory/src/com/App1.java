@@ -69,7 +69,7 @@ public class App1 {
 //			  filterApples(inventory, apple->apple.getColor().equals(Color.GREEN))
 //			  filterApples(inventory, apple->apple.getColor().equals(Color.RED))
 //			  filterApples(inventory, apple->apple.getWeight()>150)
-			  filterApples(inventory, apple->apple.getColor().equals(Color.RED) && apple.getWeight()>150)
+//			  filterApples(inventory, apple->apple.getColor().equals(Color.RED) && apple.getWeight()>150)
 			  			  
 			  
 	 );
