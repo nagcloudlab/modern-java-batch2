@@ -1,0 +1,91 @@
+
+
+
+coding principles
+
+	=> DRY ( do-not repeat yourself )
+	
+	
+	
+	in java till version 1.7,
+	
+	 first-class-citizens ==> primitives, objects
+	 second-class-citizen ==> methods
+	 
+  -------------------------------------------------------
+  
+    from java 8 onwards , 
+  
+  	first-class-citizens ==> primitives, objects and method/function 
+  	
+  	
+  	-------------------------------------------------------------
+  	
+  	
+  	E.g
+  	
+  	ApplePredicate predicate=new ApplePredicate() {
+								public boolean test(Apple apple) {
+									return apple.getColor().equals(Color.RED);
+								}
+							  }
+  	
+  	|
+  	|
+  	|
+  	V
+  	
+	ApplePredicate predicate = public boolean test(Apple apple) {
+								return apple.getColor().equals(Color.RED);
+							  }	
+	|
+  	|
+  	|
+  	V						  
+	ApplePredicate predicate = boolean test(Apple apple) {
+								return apple.getColor().equals(Color.RED);
+							  }								  
+							  
+							  
+	|
+  	|
+  	|
+  	V						  
+	ApplePredicate predicate = test(Apple apple) {
+								return apple.getColor().equals(Color.RED);
+							  }								  
+
+	|
+  	|
+  	|
+  	V						  
+	ApplePredicate predicate = (Apple apple) {
+								return apple.getColor().equals(Color.RED);
+							  }									  							
+  	
+  	
+ 	|
+  	|
+  	|
+  	V				
+  	
+  	( Method | Function | Lambda Expression )
+  			  
+	ApplePredicate predicate = (Apple apple) -> {
+								return apple.getColor().equals(Color.RED);
+							  }	
+							  
+							  
+							  
+	------------------------------------------------------------------------
+	
+	
+	
+	-> Lambda Expression basics
+	-> Functional programming Principles and Patterns
+	-> Live Examples with Lambdas
+	
+	-----------------------------------------------------------------------
+	
+	
+							  	 	
