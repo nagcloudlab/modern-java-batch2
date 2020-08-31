@@ -1,0 +1,33 @@
+
+
+
+----------------------------------------------------
+
+how to write function in java ?
+
+=> using lambda expressions
+	
+syntax:
+--------
+  
+  	  parameters -> body
+
+  	  (Type p1) -> body
+
+  	  (p1) -> body
+
+  	  p1 -> body
+
+  	  (p1,p2) -> body
+
+  	  () -> body
+
+  	  () -> single-statement
+
+  	  () -> {multi-statements}
+  	  
+----------------------------------------------------	
+
+Type of lambda expression = FunctionalInterface
+
+----------------------------------------------------	  	  
