@@ -6,7 +6,7 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.function.Predicate;
 
-//declarative style ( what/intention & how/implementation loosely coupled ) / behavior parameterization / Functional Programming
+//declarative style ( what/intention & how/implementation loosely coupled ) 
 
 public class Ex2 {
 

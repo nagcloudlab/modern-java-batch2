@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
-//declarative style ( what/intention & how/implementation loosely coupled ) / behavior parameterization / Functional Programming
+//declarative style ( what/intention & how/implementation loosely coupled ) 
 
 public class Ex4 {
 

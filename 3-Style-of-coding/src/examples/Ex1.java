@@ -13,7 +13,7 @@ public class Ex1 {
 
 		List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8, 9, 10); // 10 million
 
-		// Even
+		// Evens
 		List<Integer> evens = new ArrayList<Integer>();
 
 		Iterator<Integer> iterator = numbers.iterator();
@@ -25,7 +25,7 @@ public class Ex1 {
 
 		System.out.println(evens);
 
-		// Odd
+		// Odds
 		List<Integer> odds = new ArrayList<Integer>();
 
 		iterator = numbers.iterator();

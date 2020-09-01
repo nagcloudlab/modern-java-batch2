@@ -1,0 +1,17 @@
+
+
+
+
+ Principles of Functional Programming
+ -------------------------------------
+ 
+ 
+ - A function can be stored in a variable or value i,e function is first-class citizen
+ 
+ - A parameter of a function can be a function 
+ 
+ - The return value of a function can be a function
+ 
+ 
+ 
+ 
