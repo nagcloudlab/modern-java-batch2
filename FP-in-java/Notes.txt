@@ -1,0 +1,36 @@
+
+
+
+
+---------------------------------
+Lambda Expression / Functions
+---------------------------------
+
+
+---------------------------------
+// FP advantages
+---------------------------------    
+    
+    
+    	=> for compact & concise code
+    	=> for higher-order-programming ( hop )
+    	   i.e by composing small functions, we can build complex function
+    	=> for lazy computation   
+    	
+
+
+---------------------------------
+// FP principles
+---------------------------------
+
+
+    	   
+    	   
+---------------------------------
+// FP design patterns
+---------------------------------
+
+    	   
+    	   
+
+  		
