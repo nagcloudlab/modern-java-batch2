@@ -1,0 +1,21 @@
+
+
+
+
+ stream api
+ ----------
+ 
+ 	
+ 	“a sequence of elements from a source that supports data-processing operations.”
+ 	
+ 	
+ 	
+ 	
+ 	
+characteristic of stream-api
+-----------------------------
+
+ => can create stream from any data-source ( collection, array , IO source )
+ => data iteration is internal to api 	
+ => Lazy computation on intermediate operations
+ => can be traversed once
