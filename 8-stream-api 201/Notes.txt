@@ -1,0 +1,12 @@
+
+
+
+
+
+working streams
+-----------------
+
+    -> how to filter items with stream
+    -> how to transform items in stream
+    -> how to find & match elements in stream
+    -> how to fold/reducing items in stream

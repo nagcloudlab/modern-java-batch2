@@ -19,3 +19,12 @@ characteristic of stream-api
  => data iteration is internal to api 	
  => Lazy computation on intermediate operations
  => can be traversed once
+ 
+ ---------------------------------------------------------
+ 
+ 
+ ==> what is stream ?
+ ==> collection vs streams
+ ==> Internal versus external iteration
+ ==> intermediate versus terminal operations
+ 
