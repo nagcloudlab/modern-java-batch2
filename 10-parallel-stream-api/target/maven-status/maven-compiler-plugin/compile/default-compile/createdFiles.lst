@@ -1,0 +1,14 @@
+META-INF/CompilerHints
+com/examples/Ex2.class
+com/examples/generated/ParallelStreamBenchmark_jmhType_B3.class
+com/examples/generated/ParallelStreamBenchmark_sideEffectParallelSum_jmhTest.class
+com/examples/generated/ParallelStreamBenchmark_jmhType_B1.class
+com/examples/Accumulator.class
+com/examples/ParallelStreamBenchmark.class
+com/examples/generated/ParallelStreamBenchmark_jmhType_B2.class
+com/examples/ParallelStreamBenchmark$Accumulator.class
+META-INF/BenchmarkList
+com/examples/generated/ParallelStreamBenchmark_parallelRangedSum_jmhTest.class
+com/examples/Ex1.class
+com/Appln.class
+com/examples/generated/ParallelStreamBenchmark_jmhType.class
